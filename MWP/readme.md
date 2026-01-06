@@ -1,4 +1,4 @@
-# 🌟 MWP: Weak-Prior Guided Granular Cross-Modal Retrieval
+# 🌟 MWP: MLLM-Guided Weak Prior for Cross-Modal Retrieval
 
 <p align="center">
   <img src="assets/banner.png" width="92%" alt="MWP Banner"/>
